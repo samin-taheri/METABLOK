@@ -11,8 +11,5 @@
 
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2023-05-13 at 11 17 05](https://github.com/samin-taheri/METABLOK/assets/58706708/c91c9a53-1b05-4116-9444-e782681fdd48)
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2023-05-13 at 11 17 05](https://github.com/samin-taheri/METABLOK/assets/58706708/133bb3e2-5c02-447d-a8e1-261f443744f5)
-
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2023-05-13 at 11 17 16](https://github.com/samin-taheri/METABLOK/assets/58706708/8606fc26-9072-4f1c-9b8b-73642e63798e)
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2023-05-13 at 11 17 05 2](https://github.com/samin-taheri/METABLOK/assets/58706708/b8833ed2-6e44-4d57-a181-cde5f4dc55d3)
