@@ -1,6 +1,6 @@
 # METABLOK
 
-A Crypto Related Project Made by React-Native.
+A Crypto-Related Project Made by React-Native.
 
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2023-05-13 at 11 13 10](https://github.com/samin-taheri/METABLOK/assets/58706708/eef884e1-7d06-4b11-bb7e-47ffb571b587)
 
